@@ -419,8 +419,8 @@ button{
 
 #verify_box,#congr_box,#reverify_box,#reset_box{
   display:none;
-  width:210px;
-  height:auto;
+  width:90%;
+  height:100%;
   padding:3px;
   position:fixed;
   top:5px;left:12px;
@@ -512,7 +512,7 @@ button{
 #buddies_list,#srx_buddies_list{
   box-sizing:border-box;
   width: 100%;
-  height:262px;
+  height:100%;
   position:fixed;
   top:32px;left:0px;
   overflow:scroll;
